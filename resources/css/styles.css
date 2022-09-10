@@ -13,6 +13,9 @@ html{
 }
 
 /*-----------------------------------------*/
+.logo-web{
+    width:100%;
+}
 /*----Header----*/
 a {
     text-decoration: none;
